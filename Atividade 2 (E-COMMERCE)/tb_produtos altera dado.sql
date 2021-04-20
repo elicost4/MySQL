@@ -1,0 +1,1 @@
+update tb_produtos set codigo = 0540, descricao = "PES2021", preco = 119.90 where id = 4;
