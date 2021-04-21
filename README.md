@@ -1,4 +1,4 @@
-# MySQL
+# MySQL 🐬
 
 ### Na [Generation](http://brazil.generation.org/) tivemos hoje (20/04) uma aula introdutória ao banco de dados MySQL, depois da explicação tivemos como desafio, criar databases para os seguintes casos: 📝
 
