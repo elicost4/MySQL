@@ -1,6 +1,6 @@
 # MySQL
 
-### Participei de uma aula introdutória ao banco de dados MySQL hoje (20/04/2021), e depois das aula tive como desafio, criar databases para os seguintes casos: 📝
+### Na [Generation]http://brazil.generation.org tivemos hoje (20/04) uma aula introdutória ao banco de dados MySQL, depois da explicação tivemos como desafio, criar databases para os seguintes casos: 📝
 
 
 ### Atividade 1
